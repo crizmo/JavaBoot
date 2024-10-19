@@ -2,6 +2,9 @@
 Learning Java whilst doing DSA
 Doing each topic from assignments and solving related problems.
 
+## Roadmap
+[Java Roadmap](https://roadmap.sh/java) covers mainlty everything that is needed to learn Java.
+
 ## Assignments
 The assignments cover various topics in Java and Data Structures & Algorithms (DSA). Here is the list of assignments:
 
